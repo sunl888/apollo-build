@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  apollo:
+    build: .
+    ports:
+      - "8050:8080"
+      - "8040:8070"
+    networks:
+      - app_net
+
+networks:
+  app_net:
+    external:
+      name: app_net
