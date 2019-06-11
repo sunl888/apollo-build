@@ -3,12 +3,12 @@
 # apollo config db info
 apollo_config_db_url=jdbc:mysql://mysql:3306/ApolloConfigDB?characterEncoding=utf8
 apollo_config_db_username=root
-apollo_config_db_password=sunlong0717
+apollo_config_db_password=zm2018
 
 # apollo portal db info
 apollo_portal_db_url=jdbc:mysql://mysql:3306/ApolloPortalDB?characterEncoding=utf8
 apollo_portal_db_username=root
-apollo_portal_db_password=sunlong0717
+apollo_portal_db_password=zm2018
 
 # =============== Please do not modify the following content =============== #
 
